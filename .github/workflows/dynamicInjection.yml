@@ -18,11 +18,11 @@ jobs:
 
       - run: yarn
 
-      - run: npm i
+      - run: node .
 
       - name: Add to git repo
         run: |
-          git add .
+          git add README.md
           git config --global user.name "GoldenXLence"
           git config --global user.email "jack@koskie.ca"
           git commit -m "[Automated] README updated with new quote!"
