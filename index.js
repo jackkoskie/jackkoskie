@@ -15,7 +15,7 @@ async function main() {
     const quote = inspirationalQuote[0]
 
     const readme = readmeTemplate
-        .replace("{inspirationalQuote}", `<blockquote>${quote.q}\n- ${quote.a}</blockquote>`)
+        .replace("{inspirationalQuote}", `<blockquote>${quote.q}<br>- ${quote.a}</blockquote>`)
 
     await fs.writeFile("README.md", readme);
 
