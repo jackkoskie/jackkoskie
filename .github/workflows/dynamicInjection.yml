@@ -4,13 +4,14 @@ on:
     # This will make it run every hour
     - cron: "*/5 * * * *"
     # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+  workflow_dispatch:
 jobs:
-  get-office-quotes:
+  get-quotes:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
 
-      - name: Let the magic happen
+      - name: Get Inspirational Quote
         uses: actions/setup-node@v1
         with:
           node-version: 14.6.0
