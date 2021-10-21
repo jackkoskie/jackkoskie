@@ -1,24 +1,20 @@
-<center>
-<h1>Hey There!</h1>
 
-<h3>My name is Jack (GoldenXLence) and welcome to my GitHub profile!</h3>
+<h1 align="center">Hey There!</h1>
+
+<h3 align="center">My name is Jack (GoldenXLence) and welcome to my GitHub profile!</h3>
 
 <!-- Socials -->
-[![Twitter Follow](https://img.shields.io/twitter/follow/jackkoskie?style=social&label=Twitter)](https://twitter.com/jackkoskie)
-[![GitHub followers](https://img.shields.io/github/followers/goldenxlence?label=GitHub&style=social)](https://github.com/goldenxlence)
-[![Twitch Status](https://img.shields.io/twitch/status/goldenxlence?style=social)](https://twitch.tv/goldenxlence)
+<p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/goldenxlence?label=GitHub&style=social"> <a href="https://twitter.com/jackkoskie"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/jackkoskie?label=Twitter&style=social"></a> <a href="https://twitch.tv/goldenxlence"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/goldenxlence?style=social"></a></p>
 
-<h3><blockquote>If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest.
-<footer>- Seungsahn</footer></blockquote></h3>
-<h5>Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
+<h3 align="center"><blockquote>He who knows how to wait need make no concessions.
+<footer>- Sigmund Freud</footer></blockquote></h3>
+<h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
 
 <!-- GitHub Stats -->
-![GoldenXLence's GitHub stats](https://github-readme-stats.vercel.app/api?username=goldenxlence&count_private=true&show_icons=true&theme=github_dark)
-<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=github_dark&layout=compact)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=goldenxlence&count_private=true&show_icons=true&theme=github_dark"></p>
 
-</center>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=github_dark&layout=compact"></p>
 
