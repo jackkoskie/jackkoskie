@@ -1,8 +1,8 @@
 name: Dynamic README injection
 on:
   schedule: # Run workflow automatically
-    # Run every minute
-    - cron: "*/1 * * * *"
+    # Run every 5 minutes
+    - cron: "*/5 * * * *"
     # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
   workflow_dispatch:
 jobs:
