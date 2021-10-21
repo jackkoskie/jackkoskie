@@ -8,8 +8,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/goldenxlence?label=GitHub&style=social)](https://github.com/goldenxlence)
 [![Twitch Status](https://img.shields.io/twitch/status/goldenxlence?style=social)](https://twitch.tv/goldenxlence)
 
-<h3><blockquote>He who knows, does not speak. He who speaks, does not know.
-<footer>- Laozi</footer></blockquote></h3>
+<h3><blockquote>You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing.
+<footer>- Alan Watts</footer></blockquote></h3>
 <h5>Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
