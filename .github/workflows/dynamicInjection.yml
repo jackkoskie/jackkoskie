@@ -22,6 +22,8 @@ jobs:
 
       - name: Add to git repo
         run: |
+          git config pull.rebase false
+          git pull
           git add README.md -f
           git config --global user.name "GoldenXLence"
           git config --global user.email "jack@koskie.ca"
