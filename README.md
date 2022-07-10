@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/goldenxlence?label=GitHub&style=social"> <a href="https://twitter.com/jackkoskie"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/jackkoskie?label=Twitter&style=social"></a> <a href="https://twitch.tv/goldenxlence"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/goldenxlence?style=social"></a></p>
 
-<h3 align="center"><blockquote>To improve is to change, so to be perfect is to change often.<br>- Winston Churchill</blockquote></h3>
+<h3 align="center"><blockquote>What's the point in being smart enough to read, if everything you read makes you dumb?<br>- C. Sean McGee</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
