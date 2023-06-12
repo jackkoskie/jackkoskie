@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/goldenxlence?label=GitHub&style=social"> <a href="https://twitter.com/jackkoskie"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/jackkoskie?label=Twitter&style=social"></a> <a href="https://twitch.tv/goldenxlence"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/goldenxlence?style=social"></a></p>
 
-<h3 align="center"><blockquote>No need to hurry. No need to sparkle. No need to be anybody but oneself.<br>- Virginia Woolf</blockquote></h3>
+<h3 align="center"><blockquote>If you're afraid to die, you're afraid to live. You can't have one without the other.<br>- Rita Mae Brown</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
