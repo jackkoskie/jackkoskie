@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/goldenxlence?label=GitHub&style=social"> <a href="https://twitter.com/jackkoskie"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/jackkoskie?label=Twitter&style=social"></a> <a href="https://twitch.tv/goldenxlence"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/goldenxlence?style=social"></a></p>
 
-<h3 align="center"><blockquote>How you think when you lose determines how long it will be until you win.<br>- Gilbert Chesterton</blockquote></h3>
+<h3 align="center"><blockquote>The only thing more frustrating than slanderers is those foolish enough to listen to them.<br>- Criss Jami</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
