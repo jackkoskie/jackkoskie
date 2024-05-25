@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/goldenxlence?label=GitHub&style=social"> <a href="https://twitter.com/jackkoskie"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/jackkoskie?label=Twitter&style=social"></a> <a href="https://twitch.tv/goldenxlence"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/goldenxlence?style=social"></a></p>
 
-<h3 align="center"><blockquote>We have to live life with a sense of urgency so not a minute is wasted.<br>- Les Brown</blockquote></h3>
+<h3 align="center"><blockquote>Be mindful. Be grateful. Be positive. Be true. Be kind.<br>- Roy T. Bennett</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
