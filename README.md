@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>All life is a manifestation of the spirit, the manifestation of love.<br>- Morihei Ueshiba</blockquote></h3>
+<h3 align="center"><blockquote>Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. <br>- Henry Ford</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
