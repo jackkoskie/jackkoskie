@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Life is a succession of lessons, which must be lived to be understood.<br>- Ralph Waldo Emerson</blockquote></h3>
+<h3 align="center"><blockquote>As a matter of fact is an expression that precedes many an expression that isn't.<br>- Laurence J. Peter</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
