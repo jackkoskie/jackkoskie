@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>All power is from within and therefore under our control.<br>- Robert Collier</blockquote></h3>
+<h3 align="center"><blockquote>The more you lose yourself in something bigger than yourself, the more energy you will have.<br>- Norman Vincent Peale</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
