@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Friendship is one of the most tangible things in a world which offers fewer and fewer supports.<br>- Kenneth Branagh</blockquote></h3>
+<h3 align="center"><blockquote>It's your outlook on life that counts.<br>- Betty White</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
