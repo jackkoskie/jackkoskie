@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>To know even one life has breathed easier because you have lived. This is to have succeeded.<br>- Ralph Waldo Emerson</blockquote></h3>
+<h3 align="center"><blockquote>Optimism is the one quality more associated with success and happiness than any other.<br>- Brian Tracy</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
