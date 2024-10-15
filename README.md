@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Leave the beaten track behind occasionally and dive into the woods. Every time you do you will be certain to find something you have never seen before.<br>- Alexander Graham Bell</blockquote></h3>
+<h3 align="center"><blockquote>Try to be a rainbow in someone's cloud.<br>- Maya Angelou</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
