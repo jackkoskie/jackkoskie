@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>All human wisdom is contained in these two words - Wait and Hope<br>- Alexandre Dumas</blockquote></h3>
+<h3 align="center"><blockquote>If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you.<br>- Simon Sinek</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
