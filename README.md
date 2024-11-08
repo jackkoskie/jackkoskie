@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Every great change is preceded by chaos.<br>- Deepak Chopra</blockquote></h3>
+<h3 align="center"><blockquote>The greatest gift that you can give to others is the gift of unconditional love and acceptance. <br>- Brian Tracy</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
