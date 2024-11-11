@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Life needs to be more than just solving problems every day. You need to wake up and be excited about the future.<br>- Elon Musk</blockquote></h3>
+<h3 align="center"><blockquote>You have within you right now, everything you need to deal with whatever the world can throw at you.<br>- Brian Tracy</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
