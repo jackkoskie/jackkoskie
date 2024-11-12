@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>You have within you right now, everything you need to deal with whatever the world can throw at you.<br>- Brian Tracy</blockquote></h3>
+<h3 align="center"><blockquote>A man sooner or later discovers that he is the master-gardener of his soul, the director of his life.<br>- James Allen</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
