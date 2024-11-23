@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>If I have seen further than others, it is by standing upon the shoulders of giants.<br>- Isaac Newton</blockquote></h3>
+<h3 align="center"><blockquote>It is the power of the mind to be unconquerable.<br>- Seneca</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
