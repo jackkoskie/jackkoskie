@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>No man is more cheated than the selfish man.<br>- Henry Ward Beecher</blockquote></h3>
+<h3 align="center"><blockquote>One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.<br>- Elbert Hubbard</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
