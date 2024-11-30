@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Have the courage to follow your heart and intuition. They somehow know what you truly want to become.<br>- Steve Jobs</blockquote></h3>
+<h3 align="center"><blockquote>The dreamers are the saviors of the worlds.<br>- James Allen</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
