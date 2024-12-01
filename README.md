@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>The dreamers are the saviors of the worlds.<br>- James Allen</blockquote></h3>
+<h3 align="center"><blockquote>Instead of being intimidated by the limitations, be inspired to find new ways around them.<br>- Ralph Marston</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
