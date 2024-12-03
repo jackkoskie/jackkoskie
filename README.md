@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Nothing is easier than fault finding.<br>- Og Mandino</blockquote></h3>
+<h3 align="center"><blockquote>Just get out and do it. You will be very, very glad that you did.<br>- Christopher McCandless</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
