@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Discipline is the mark of intelligent living.<br>- Sathya Sai Baba</blockquote></h3>
+<h3 align="center"><blockquote>Never stand begging for that which you have the power to earn.<br>- Miguel de Cervantes</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
