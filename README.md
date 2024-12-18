@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Every second you have on this planet is very precious and it's your responsibility that you're happy.<br>- Naval Ravikant</blockquote></h3>
+<h3 align="center"><blockquote>The secret of getting ahead is getting started.<br>- Mark Twain</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
