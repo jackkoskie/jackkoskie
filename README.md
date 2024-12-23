@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>I am thankful to all those who said no. It's because of them, I did it myself.  <br>- Wayne Dyer</blockquote></h3>
+<h3 align="center"><blockquote>Your heart is full of fertile seeds, waiting to sprout.<br>- Morihei Ueshiba</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
