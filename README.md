@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Manifest plainness, embrace simplicity, reduce selfishness, have few desires.<br>- Lao Tzu</blockquote></h3>
+<h3 align="center"><blockquote>However difficult life may seem, there is always something you can do and succeed at.<br>- Stephen Hawking</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
