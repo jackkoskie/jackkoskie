@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Wishing to be friends is quick work, but friendship is a slow ripening fruit.<br>- Aristotle</blockquote></h3>
+<h3 align="center"><blockquote>A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd.<br>- Chinese Proverb</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
