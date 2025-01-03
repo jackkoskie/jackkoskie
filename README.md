@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>The degree of responsibility you take for your life determines how much change you can create in it.<br>- Celestine Chua</blockquote></h3>
+<h3 align="center"><blockquote>Remember, hope is a good thing, maybe the best of things.<br>- Stephen King</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
