@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled.<br>- Andrew Carnegie</blockquote></h3>
+<h3 align="center"><blockquote>Sometimes you put walls up not to keep people out, but to see who cares enough to break them down.<br>- Socrates</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
