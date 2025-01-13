@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>If you're not failing every now and again, it's a sign you're not doing anything very innovative.<br>- Woody Allen</blockquote></h3>
+<h3 align="center"><blockquote>A golden cage is still just a cage.<br>- Anita Krizzan</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
