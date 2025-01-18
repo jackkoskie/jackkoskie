@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>It is better to learn late than never.<br>- Publilius Syrus</blockquote></h3>
+<h3 align="center"><blockquote>It's possible in ways both large or small to make a difference in someone's life.<br>- Yanni</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
