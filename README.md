@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>We are like islands in the sea, separate on the surface but connected in the deep.<br>- William James</blockquote></h3>
+<h3 align="center"><blockquote>Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.<br>- Ayn Rand</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
