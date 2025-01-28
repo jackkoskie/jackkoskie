@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>The primary cause of unhappiness is never the situation but your thoughts about it.<br>- Eckhart Tolle</blockquote></h3>
+<h3 align="center"><blockquote>Knowing is not enough, we must apply. Willing is not enough, we must do.<br>- Johann Wolfgang von Goethe</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
