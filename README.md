@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Knowing is not enough, we must apply. Willing is not enough, we must do.<br>- Johann Wolfgang von Goethe</blockquote></h3>
+<h3 align="center"><blockquote>At the center of your being you have the answer; you know who you are and you know what you want.<br>- Lao Tzu</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
