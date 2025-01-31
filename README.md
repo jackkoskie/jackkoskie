@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>A bird does not sing because it has an answer. It sings because it has a song.<br>- Chinese Proverb</blockquote></h3>
+<h3 align="center"><blockquote>Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence?<br>- Sathya Sai Baba</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
