@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Unless someone truly has the power to say no, they never truly have the power to say yes.<br>- Dan Millman</blockquote></h3>
+<h3 align="center"><blockquote>Plants grow weak without wind.<br>- Maxime Lagace</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
