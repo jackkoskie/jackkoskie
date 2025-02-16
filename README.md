@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>The big thing is to make a winning effort. I'm not obsessed with wins.<br>- Morgan Wootten</blockquote></h3>
+<h3 align="center"><blockquote>In youth we run into difficulties. In old age difficulties run into us. <br>- Beverly Sills</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
