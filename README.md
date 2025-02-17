@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>In youth we run into difficulties. In old age difficulties run into us. <br>- Beverly Sills</blockquote></h3>
+<h3 align="center"><blockquote>Not all of us can do great things. But we can do small things with great love.<br>- Mother Teresa</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
