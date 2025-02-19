@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Not until we are lost do we begin to understand ourselves.<br>- Henry David Thoreau</blockquote></h3>
+<h3 align="center"><blockquote>The happiest people in the world are those who feel absolutely terrific about themselves.<br>- Brian Tracy</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
