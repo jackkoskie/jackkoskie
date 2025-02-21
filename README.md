@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>This is the most simple and basic component of life: our struggles determine our successes.<br>- Mark Manson</blockquote></h3>
+<h3 align="center"><blockquote>Logic is like the sword - those who appeal to it shall perish by it.<br>- Samuel Butler</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
