@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>If you run you stand a chance of losing, but if you don't run you've already lost.<br>- Barack Obama</blockquote></h3>
+<h3 align="center"><blockquote>If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin.<br>- Charles Darwin</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
