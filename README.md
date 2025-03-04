@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>In the midst of movement and chaos, keep stillness inside of you.<br>- Deepak Chopra</blockquote></h3>
+<h3 align="center"><blockquote>When you're at the end of your rope, tie a knot and hold on.<br>- Theodore Roosevelt</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
