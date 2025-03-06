@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Change is not a four letter word...but often your reaction to it is!<br>- Jeffrey Gitomer</blockquote></h3>
+<h3 align="center"><blockquote>You gain strength, courage and confidence by every experience in which you really stop to look fear in the face.<br>- Eleanor Roosevelt</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
