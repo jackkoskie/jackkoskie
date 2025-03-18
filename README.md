@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>This is the real secret of life - to be completely engaged with what you are doing in the here and now. And instead of calling it work, realize it is play.<br>- Alan Watts</blockquote></h3>
+<h3 align="center"><blockquote>Man should fear never beginning to live.<br>- Marcus Aurelius</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
