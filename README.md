@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Try not to become a man of success, but rather try to become a man of value.<br>- Albert Einstein</blockquote></h3>
+<h3 align="center"><blockquote>I don't ever give up. I'd have to be dead or completely incapacitated.<br>- Elon Musk</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
