@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Natural talent only determines the limits of your athletic potential. It's dedication and a willingness to discipline your life that makes you great.<br>- Billie Jean King</blockquote></h3>
+<h3 align="center"><blockquote>The river that flows in you also flows in me.<br>- Kabir</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
