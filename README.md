@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Lying can never save us from another lie.<br>- Vaclav Havel</blockquote></h3>
+<h3 align="center"><blockquote>Try to be a rainbow in someone's cloud.<br>- Maya Angelou</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
