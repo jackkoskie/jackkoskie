@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Real loss is only possible when you love something more than you love yourself.<br>- Robin Williams</blockquote></h3>
+<h3 align="center"><blockquote>Everyone thinks of changing the world, but no one thinks of changing himself.<br>- Leo Tolstoy</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
