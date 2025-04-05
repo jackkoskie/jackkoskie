@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>You can never cross the ocean unless you have the courage to lose sight of the shore.<br>- Christopher Columbus</blockquote></h3>
+<h3 align="center"><blockquote>Progress is impossible without change, and those who cannot change their minds cannot change anything.<br>- George Bernard Shaw</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
