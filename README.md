@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>The few who do are the envy of the many who only watch.<br>- Jim Rohn</blockquote></h3>
+<h3 align="center"><blockquote>Life is ours to be spent, not to be saved. <br>- D. H. Lawrence</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
