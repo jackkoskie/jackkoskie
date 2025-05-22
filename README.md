@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Re-examine all that you have been told... dismiss that which insults your soul.<br>- Walt Whitman</blockquote></h3>
+<h3 align="center"><blockquote>The quality of your life is the quality of your relationships.<br>- Tony Robbins</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
