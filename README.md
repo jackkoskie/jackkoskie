@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it.<br>- Carl Jung</blockquote></h3>
+<h3 align="center"><blockquote>Many roads lead to the path, but basically there are only two: reason and practice. <br>- Bodhidharma</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
