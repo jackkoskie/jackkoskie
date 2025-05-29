@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>If you have to be in a soap opera try not to be cast in the worst role.<br>- Judy Garland</blockquote></h3>
+<h3 align="center"><blockquote>People become attached to their burdens sometimes more than the burdens are attached to them.<br>- George Bernard Shaw</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
