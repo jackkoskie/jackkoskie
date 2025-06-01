@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>What kills the creative force is not age or lack of talent, but our own spirit, our own attitude.<br>- Robert Greene</blockquote></h3>
+<h3 align="center"><blockquote>Every failure brings with it the seed of an equivalent success.<br>- Napoleon Hill</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
