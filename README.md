@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>I no doubt deserved my enemies, but I don't believe I deserved my friends.<br>- Walt Whitman</blockquote></h3>
+<h3 align="center"><blockquote>Truth is like most opinions - best unexpressed.<br>- Kenneth Branagh</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
