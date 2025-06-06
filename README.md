@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Surrender to what is. Let go of what was. Have faith in what will be.<br>- Sonia Ricotti</blockquote></h3>
+<h3 align="center"><blockquote>You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible.<br>- Norman Vincent Peale</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
