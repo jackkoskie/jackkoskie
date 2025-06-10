@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>The friendship that can cease has never been real. <br>- St. Jerome</blockquote></h3>
+<h3 align="center"><blockquote>Becoming a great leader doesn't mean being perfect. it means living with your imperfections.<br>- Lolly Daskal</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
