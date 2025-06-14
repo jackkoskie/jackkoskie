@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Amateurs sit and wait for inspiration, the rest of us just get up and got to work.<br>- Stephen King</blockquote></h3>
+<h3 align="center"><blockquote>If you want to know what God thinks about money just look at the people He gives it to.<br>- Alexander Pope</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
