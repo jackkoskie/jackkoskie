@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Don't ever be afraid to put yourself in a lesser position so that you can learn something from someone who knows more.<br>- Steve Harvey</blockquote></h3>
+<h3 align="center"><blockquote>All has not been said and never will be.<br>- Samuel Beckett</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
