@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Talent is luck. The important thing in life is courage.<br>- Woody Allen</blockquote></h3>
+<h3 align="center"><blockquote>If I can pay the bills, I'm happy.<br>- Morgan Wootten</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
