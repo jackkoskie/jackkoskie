@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>The most virtuous are those who content themselves with being virtuous without seeking to appear so.<br>- Plato</blockquote></h3>
+<h3 align="center"><blockquote>Do Something. If it works, do more of it. If it doesn't, do something else.<br>- Franklin D. Roosevelt</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
