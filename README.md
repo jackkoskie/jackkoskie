@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>You do not read a book for the book's sake, but for your own.<br>- Earl Nightingale</blockquote></h3>
+<h3 align="center"><blockquote>A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.<br>- Winston Churchill</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
