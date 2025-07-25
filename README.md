@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>When you know what you want, and you want it bad enough, you will find a way to get it.<br>- Jim Rohn</blockquote></h3>
+<h3 align="center"><blockquote>Why live an ordinary life, when you can live an extraordinary one.<br>- Tony Robbins</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
