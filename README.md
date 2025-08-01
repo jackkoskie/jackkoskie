@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Change happens when the pain of holding on becomes greater than the fear of letting go.<br>- Spencer Johnson</blockquote></h3>
+<h3 align="center"><blockquote>A hero is an ordinary person doing things in an extra ordinary way.<br>- Christopher Reeve</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
