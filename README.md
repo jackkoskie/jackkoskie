@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Work as though you would live forever, and live as though you would die today. Go another mile.<br>- Og Mandino</blockquote></h3>
+<h3 align="center"><blockquote>It's the little things done consistently over time, straight from your heart, that have the greatest impact.<br>- Unknown</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
