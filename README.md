@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Make peace within, and there will be no one who can overcome you. And no one you will wish to overcome.<br>- Dan Millman</blockquote></h3>
+<h3 align="center"><blockquote>When you move beyond your fear, you feel free.<br>- Spencer Johnson</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
