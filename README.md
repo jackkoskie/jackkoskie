@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>It ain't where you start in life, it's where you end up, and what you did along the way.<br>- Colin Powell</blockquote></h3>
+<h3 align="center"><blockquote>If you want to be successful, find someone who has achieved the results you want and copy what they do and you'll achieve the same results.<br>- Tony Robbins</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
