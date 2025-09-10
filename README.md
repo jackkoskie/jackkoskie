@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>From a certain point onward there is no longer any turning back. That is the point that must be reached.<br>- Franz Kafka</blockquote></h3>
+<h3 align="center"><blockquote>Action is the foundational key to all success.<br>- Pablo Picasso</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
