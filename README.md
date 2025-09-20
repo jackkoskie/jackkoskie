@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>It is the greatest of all mistakes to do nothing because you can only do little; do something.<br>- Sydney Smith</blockquote></h3>
+<h3 align="center"><blockquote>Don't blame others. it won't make you a better person.<br>- Lolly Daskal</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
