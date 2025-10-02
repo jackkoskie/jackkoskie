@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Is it really possible to tell someone else what one feels?<br>- Leo Tolstoy</blockquote></h3>
+<h3 align="center"><blockquote>It's very strange that the people you love are often the people you're most cruel to.<br>- Kenneth Branagh</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
