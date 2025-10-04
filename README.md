@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Confidence is consistency of thinking about what is possible and how to make it possible.<br>- John Eliot</blockquote></h3>
+<h3 align="center"><blockquote>Challenge yourself to find the good and beautiful thing inside of everyone.<br>- Mark Manson</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
