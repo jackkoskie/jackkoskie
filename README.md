@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>When you're curious, you find lots of interesting things to do.<br>- Walt Disney</blockquote></h3>
+<h3 align="center"><blockquote>Like it or not, this moment is all we really have to work with.<br>- Jon Kabat-Zinn</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
