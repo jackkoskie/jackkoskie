@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Without education, we are in a horrible and deadly danger of taking educated people seriously.<br>- Gilbert Chesterton</blockquote></h3>
+<h3 align="center"><blockquote>I hear and I forget. I see and I remember. I do and I understand. <br>- Confucius</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
