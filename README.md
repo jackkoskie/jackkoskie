@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Nothing ever goes away until it has taught us what we need to know.<br>- Pema Chodron</blockquote></h3>
+<h3 align="center"><blockquote>Giving is living. If you stop wanting to give, there's nothing more to live for.<br>- Audrey Hepburn</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
