@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Fear can hold you prisoner. Hope can set you free.<br>- Stephen King</blockquote></h3>
+<h3 align="center"><blockquote>Success is the progressive realization of a worthy goal or ideal.<br>- Earl Nightingale</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
