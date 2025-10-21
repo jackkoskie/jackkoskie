@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Don't bother people for help without first trying to solve the problem yourself.<br>- Colin Powell</blockquote></h3>
+<h3 align="center"><blockquote>It's what you do in the present that will redeem the past and thereby change the future.<br>- Paulo Coelho</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
