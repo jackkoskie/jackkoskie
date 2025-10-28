@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>We will act consistently with our view of who we truly are, whether that view is accurate or not.<br>- Tony Robbins</blockquote></h3>
+<h3 align="center"><blockquote>All our dreams can come true, if we have the courage to pursue them.<br>- Walt Disney</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
