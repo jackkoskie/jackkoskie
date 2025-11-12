@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Many people spend more time looking at their failures than focusing on their successes.<br>- Lolly Daskal</blockquote></h3>
+<h3 align="center"><blockquote>Integrity is telling myself the truth. And honesty is telling the truth to other people.<br>- Spencer Johnson</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
