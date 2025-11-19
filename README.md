@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds.<br>- Barack Obama</blockquote></h3>
+<h3 align="center"><blockquote>Discontent is the first necessity of progress.<br>- Thomas Edison</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
