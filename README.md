@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Greatest success comes just one step beyond the point at which defeat overtakes you.<br>- Unknown</blockquote></h3>
+<h3 align="center"><blockquote>Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found.<br>- Pema Chodron</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
