@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Go confidently in the direction of your dreams! Live the life you've imagined.<br>- Henry David Thoreau</blockquote></h3>
+<h3 align="center"><blockquote>Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood.<br>- Charles Dickens</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
