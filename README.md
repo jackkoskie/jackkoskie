@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Some people feel the rain. Others just get wet. <br>- Bob Dylan</blockquote></h3>
+<h3 align="center"><blockquote>The time is always right to do what is right.<br>- Martin Luther King, Jr.</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
