@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Children are our greatest natural resource.<br>- Herbert Hoover</blockquote></h3>
+<h3 align="center"><blockquote>Over time, loneliness gets inside you and doesn't go away.<br>- Carlos Ruiz Zafon</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
