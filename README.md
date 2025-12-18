@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>The best mind-altering drug is the truth.<br>- Lily Tomlin</blockquote></h3>
+<h3 align="center"><blockquote>In a world of change, the learners shall inherit the earth, while the learned shall find themselves perfectly suited for a world that no longer exists.<br>- Eric Hoffer</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
