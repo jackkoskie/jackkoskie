@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>One loyal friend is worth ten thousand relatives.<br>- Euripides</blockquote></h3>
+<h3 align="center"><blockquote>The truly rich men are the ones who have health, loved ones and a work they love.<br>- Maxime Lagace</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
