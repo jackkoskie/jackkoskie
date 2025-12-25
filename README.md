@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>It is dangerous to be right in matters on which the established authorities are wrong.<br>- Voltaire</blockquote></h3>
+<h3 align="center"><blockquote>There is no right or wrong, only a series of possibilities that shift with each thought, feeling, and action that you experience.<br>- Deepak Chopra</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
