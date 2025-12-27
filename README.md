@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>It's your road, and yours alone, others may walk it with you, but no one can walk it for you.<br>- Rumi</blockquote></h3>
+<h3 align="center"><blockquote>Even when a friend does something you do not like, he continues to be your friend. <br>- Genghis Khan</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
