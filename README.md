@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>The less you open your heart to others, the more your heart suffers.<br>- Deepak Chopra</blockquote></h3>
+<h3 align="center"><blockquote>The wisdom of life consists in the elimination of the nonessentials.<br>- Lin Yutang</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
