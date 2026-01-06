@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>The greatest test of courage on earth is to bear defeat without losing heart.<br>- Robert Greene</blockquote></h3>
+<h3 align="center"><blockquote>Force has no place where there is need of skill. <br>- Herodotus</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
