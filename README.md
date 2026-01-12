@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>He who is not contented with what he has, would not be contented with what he would like to have.<br>- Socrates</blockquote></h3>
+<h3 align="center"><blockquote>If you put water into a cup, it becomes the cup.<br>- Bruce Lee</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
