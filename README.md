@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Your greatest asset is your earning ability. Your greatest resource is your time.<br>- Brian Tracy</blockquote></h3>
+<h3 align="center"><blockquote>Your neighbor is the man who needs you.<br>- Elbert Hubbard</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
