@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>The traveler sees what he sees. The tourist sees what he has come to see.<br>- Gilbert Chesterton</blockquote></h3>
+<h3 align="center"><blockquote>Embrace the life you have and stop wishing that you could be someone else.<br>- Joyce Meyer</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
