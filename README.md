@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Not engaging in ignorance is wisdom. <br>- Bodhidharma</blockquote></h3>
+<h3 align="center"><blockquote>Motivation is what gets you started. Habit is what keeps you going.<br>- Jim Rohn</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
