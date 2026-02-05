@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime.<br>- Steve Maraboli</blockquote></h3>
+<h3 align="center"><blockquote>Still your waters.<br>- Josh Waitzkin</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
