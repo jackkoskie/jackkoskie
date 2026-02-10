@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>A man, as a general rule, owes very little to what he is born with - a man is what he makes of himself.<br>- Alexander Graham Bell</blockquote></h3>
+<h3 align="center"><blockquote>Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough. <br>- Oprah Winfrey</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
