@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>I must also have a dark side if I am to be whole.<br>- Carl Jung</blockquote></h3>
+<h3 align="center"><blockquote>Things may come to those who wait, but only the things left by those who hustle.<br>- Abraham Lincoln</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
