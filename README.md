@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>The worst part of success is trying to find someone who is happy for you.<br>- Bette Midler</blockquote></h3>
+<h3 align="center"><blockquote>If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace.<br>- Dogen</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
