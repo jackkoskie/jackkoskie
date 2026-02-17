@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>If you don't like something, change it. If you can't change it, change your attitude.<br>- Maya Angelou</blockquote></h3>
+<h3 align="center"><blockquote>Words are the clothes thoughts wear.<br>- Samuel Beckett</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
