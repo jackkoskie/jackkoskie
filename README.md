@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>The joy of life comes from our encounters with new experiences.<br>- Christopher McCandless</blockquote></h3>
+<h3 align="center"><blockquote>You will never do anything in this world without courage. It is the greatest quality of the mind next to honor.<br>- James Allen</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
