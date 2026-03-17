@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>We have a duty to maintain the light of consciousness to make sure it continues into the future.<br>- Elon Musk</blockquote></h3>
+<h3 align="center"><blockquote>Time you enjoy wasting, was not wasted.<br>- John Lennon</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
