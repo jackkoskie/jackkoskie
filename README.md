@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Make improvements, not excuses. Seek respect, not attention.<br>- Roy T. Bennett</blockquote></h3>
+<h3 align="center"><blockquote>Arise, slay thy enemies, enjoy a prosperous kingdom.<br>- Bhagavad Gita</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
