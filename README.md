@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Worry is a waste of emotional reserve.<br>- Ayn Rand</blockquote></h3>
+<h3 align="center"><blockquote>Today I begin a new life. I will greet this day with love in my heart.<br>- Og Mandino</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
