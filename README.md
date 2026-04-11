@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Magic is believing in yourself, if you can do that, you can make anything happen.<br>- Johann Wolfgang von Goethe</blockquote></h3>
+<h3 align="center"><blockquote>Wisdom is the oneness of mind that guides and permeates all things.<br>- Heraclitus</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
