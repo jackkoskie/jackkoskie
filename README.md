@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Dark times lie ahead of us and there will be a time when we must choose between what is easy and what is right.<br>- Albus Dumbledore</blockquote></h3>
+<h3 align="center"><blockquote>Associate with people who are likely to improve you.  <br>- Seneca</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
