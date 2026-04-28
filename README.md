@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Instead of thinking outside the box, get rid of the box.<br>- Deepak Chopra</blockquote></h3>
+<h3 align="center"><blockquote>Hope and fear come from feeling that we lack something; they come from a sense of poverty.<br>- Pema Chodron</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
