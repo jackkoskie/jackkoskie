@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>I put my heart and soul into my work, and I have lost my mind in the process.<br>- Vincent van Gogh</blockquote></h3>
+<h3 align="center"><blockquote>Life is like riding a bicycle. To keep your balance you must keep moving.<br>- Albert Einstein</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
