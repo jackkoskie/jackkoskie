@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Life is like riding a bicycle. To keep your balance you must keep moving.<br>- Albert Einstein</blockquote></h3>
+<h3 align="center"><blockquote>Hold yourself responsible for a higher standard than anybody else expects of you.<br>- Henry Ward Beecher</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
