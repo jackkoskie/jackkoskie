@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Enjoy every minute of life. Never second-guess life.<br>- Michael Jordan</blockquote></h3>
+<h3 align="center"><blockquote>Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny.<br>- Steve Maraboli</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
