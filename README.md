@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>You are never too old to set another goal or to dream a new dream.<br>- Les Brown</blockquote></h3>
+<h3 align="center"><blockquote>He who cheats the earth will be cheated by the earth.<br>- Chinese Proverb</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
