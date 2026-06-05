@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Don't worry about being successful, but work toward being significant and the success will naturally follow.<br>- Oprah Winfrey</blockquote></h3>
+<h3 align="center"><blockquote>If I can stop one heart from breaking, I shall not live in vain.<br>- Emily Dickinson</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
