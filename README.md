@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>By the practice of meditation, you will find that you are carrying within your heart a portable paradise.<br>- Paramahansa Yogananda</blockquote></h3>
+<h3 align="center"><blockquote>Until we can manage time, we can manage nothing else.<br>- Peter Drucker</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
