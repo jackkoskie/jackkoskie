@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility.<br>- Sigmund Freud</blockquote></h3>
+<h3 align="center"><blockquote>We have to live life with a sense of urgency so not a minute is wasted.<br>- Les Brown</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
