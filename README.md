@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Love is the absence of judgment.<br>- Dalai Lama</blockquote></h3>
+<h3 align="center"><blockquote>Success is never final, failure is never fatal. It's courage that counts.<br>- John Wooden</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
