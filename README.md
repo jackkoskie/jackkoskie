@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>The people who are most successful are those who are doing what they love.<br>- Warren Buffett</blockquote></h3>
+<h3 align="center"><blockquote>Sad thing is, you can still love someone and be wrong for them.<br>- Elvis Presley</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
