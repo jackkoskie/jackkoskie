@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>We are all in the gutter, but some of us are looking at the stars.<br>- Oscar Wilde</blockquote></h3>
+<h3 align="center"><blockquote>A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing.<br>- George Bernard Shaw</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
