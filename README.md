@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Life without love is like a tree without blossoms or fruit.<br>- Kahlil Gibran</blockquote></h3>
+<h3 align="center"><blockquote>Numbing the pain for a while will make it worse when you finally feel it.<br>- Albus Dumbledore</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
