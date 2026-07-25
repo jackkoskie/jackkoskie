@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Give a girl the right shoes, and she can conquer the world.<br>- Bette Midler</blockquote></h3>
+<h3 align="center"><blockquote>If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere.<br>- Zig Ziglar</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
