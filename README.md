@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there.<br>- Zig Ziglar</blockquote></h3>
+<h3 align="center"><blockquote>Most people get ahead during the time that others waste.<br>- Henry Ford</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
