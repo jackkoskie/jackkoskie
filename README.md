@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Dreams have only one owner at a time. That's why dreamers are lonely.<br>- William Faulkner</blockquote></h3>
+<h3 align="center"><blockquote>Peace is not something you wish for; It's something you make, something you do, something you are, and something you give away.<br>- John Lennon</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
