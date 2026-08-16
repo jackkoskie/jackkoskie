@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Do not fight with pigs - you will be smeared in mud but the pig will like it.<br>- George Bernard Shaw</blockquote></h3>
+<h3 align="center"><blockquote>The most important thing in communication is to hear what isn't being said.<br>- Peter Drucker</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
