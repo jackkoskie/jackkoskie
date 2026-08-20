@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>People tend to complicate their own lives, as if living weren't already complicated enough.<br>- Carlos Ruiz Zafon</blockquote></h3>
+<h3 align="center"><blockquote>Magic is believing in yourself, if you can do that, you can make anything happen.<br>- Johann Wolfgang von Goethe</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
