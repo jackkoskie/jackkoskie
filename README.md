@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>There is always room in your life for thinking bigger, pushing limits and imagining the impossible.<br>- Tony Robbins</blockquote></h3>
+<h3 align="center"><blockquote>In the long run, the sharpest weapon of all is a kind and gentle spirit.<br>- Anne Frank</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
