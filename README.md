@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>When you reach the end of your rope, tie a knot in it and hang on.<br>- Franklin D. Roosevelt</blockquote></h3>
+<h3 align="center"><blockquote>When you are totally at peace with yourself, nothing can shake you.<br>- Deepam Chaterjee</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
