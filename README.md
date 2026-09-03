@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Our thoughts are highly influenced by the people around us and everything we read, see, and do.<br>- Jeff Booth</blockquote></h3>
+<h3 align="center"><blockquote>Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.<br>- Epictetus</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
