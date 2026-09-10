@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "isomorphic-unfetch": "3.1.0"
+    "isomorphic-unfetch": "4.0.2"
   },
   "scripts": {
     "install": "node index.js"
