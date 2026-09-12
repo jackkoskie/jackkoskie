@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Those who know, do. Those that understand, teach.<br>- Aristotle</blockquote></h3>
+<h3 align="center"><blockquote>There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.<br>- Denis Waitley</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
