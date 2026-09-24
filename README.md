@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>If you do not get the chills when you set your goal you're not setting big enough goals.<br>- Bob Proctor</blockquote></h3>
+<h3 align="center"><blockquote>Never give way to laziness.<br>- Bhagavad Gita</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
