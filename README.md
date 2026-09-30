@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>If you love life, don't waste time, for time is what life is made up of.<br>- Bruce Lee</blockquote></h3>
+<h3 align="center"><blockquote>Just because something isn't a lie does not mean that it isn't deceptive.<br>- Criss Jami</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
