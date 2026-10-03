@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Where we fall are the stepping-stones for our journey.<br>- Lolly Daskal</blockquote></h3>
+<h3 align="center"><blockquote>But better die than live mechanically a life that is a repetition of repetitions.<br>- D. H. Lawrence</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
