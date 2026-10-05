@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Being in a good frame of mind helps keep one in the picture of health.<br>- Unknown</blockquote></h3>
+<h3 align="center"><blockquote>The birth of the mind is the death of the senses.<br>- Dan Millman</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
