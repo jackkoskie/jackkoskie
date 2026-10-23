@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>You've got to get up every morning with determination if you're going to go to bed with satisfaction.<br>- George Lorimer</blockquote></h3>
+<h3 align="center"><blockquote>Whatever you decide to do, make sure it makes you happy.<br>- Paulo Coelho</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
