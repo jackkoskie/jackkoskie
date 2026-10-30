@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>If you see a get rich quick scheme, that's someone else trying to get rich off of you.<br>- Naval Ravikant</blockquote></h3>
+<h3 align="center"><blockquote>Motivation gets you going and habit gets you there.<br>- Zig Ziglar</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
