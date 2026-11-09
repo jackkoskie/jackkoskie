@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Acknowledging the good that you already have in your life is the foundation for all abundance.<br>- Eckhart Tolle</blockquote></h3>
+<h3 align="center"><blockquote>Absence makes the heart grow fonder.<br>- Eleanor Roosevelt</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
