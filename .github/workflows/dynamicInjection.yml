@@ -14,7 +14,7 @@ jobs:
       - name: Get Inspirational Quote
         uses: actions/setup-node@v2
         with:
-          node-version: 14.6.0
+          node-version: 14.21.3
 
       - run: yarn
 
