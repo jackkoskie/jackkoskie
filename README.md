@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jackkoskie?label=GitHub&style=social"></p>
 
-<h3 align="center"><blockquote>Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do.<br>- Elvis Presley</blockquote></h3>
+<h3 align="center"><blockquote>In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better.<br>- Spencer Johnson</blockquote></h3>
 <h5 align="center">Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a></h5>
 
 <br>
